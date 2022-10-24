@@ -22,3 +22,5 @@ Proje 2
 2-Big-O gösterimini yazınız.
 
 - O(nlogn)
+
+www.patika.dev
